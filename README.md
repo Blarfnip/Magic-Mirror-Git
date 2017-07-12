@@ -11,12 +11,12 @@ Current:
 Goals:
 -Google calendar integration
 
-##Commands
+## Commands
 The smart mirror used Annyang, Chrome speech synthesis, and api.ai to provide a smart assistant within the mirror.
-Start all commands with: 
-``` Alexa, ... ```
-or
-``` Hey Alexa, ... ```
+Start all commands with:   
+``` Alexa, ... ```  
+or  
+``` Hey Alexa, ... ```  
 Examples:
 ``` Hey Alexa, what's the weather like next teusday?
 Alexa, when's your birthday?
