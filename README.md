@@ -18,12 +18,13 @@ Start all commands with:
 or  
 ``` Hey Alexa, ... ```  
 Examples:
-``` Hey Alexa, what's the weather like next teusday?  
+``` 
+Hey Alexa, what's the weather like next teusday?  
 Alexa, when's your birthday?  
 Alexa, show me the forecast. 
 ```  
 
-To return to the "home screen" just say, ```Thanks Alexa```
+To return to the "home screen" just say, ``` Thanks Alexa ```
 
 ## Compatibility
 Any device running chrome with access to the microphone. (Not iOS)
