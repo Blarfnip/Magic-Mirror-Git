@@ -20,7 +20,8 @@ or
 Examples:
 ``` Hey Alexa, what's the weather like next teusday?  
 Alexa, when's your birthday?  
-Alexa, show me the forecast. ```  
+Alexa, show me the forecast. 
+```  
 
 To return to the "home screen" just say, ```Thanks Alexa```
 
