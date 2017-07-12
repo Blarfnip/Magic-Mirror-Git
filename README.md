@@ -4,12 +4,12 @@ By: Saul
 This project is a work in progress smart mirror webapp.
 
 ## Features
-Current:
--Minimal voice commands
--Weather Underground display for a pre-determined location
+Current:  
+-Minimal voice commands  
+-Weather Underground display for a pre-determined location  
 
-Goals:
--Google calendar integration
+Goals:  
+-Google calendar integration  
 
 ## Commands
 The smart mirror used Annyang, Chrome speech synthesis, and api.ai to provide a smart assistant within the mirror.
