@@ -1,0 +1,8 @@
+{
+  "short_name": "Magic Mirror",
+  "name": "Magic Mirror",
+
+  "start_url": "/MagicMirror/magicMirror.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
